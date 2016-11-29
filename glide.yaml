@@ -1,0 +1,9 @@
+package: filesloop
+import:
+- package: github.com/PuerkitoBio/goquery
+- package: github.com/dop251/goja
+- package: github.com/fatih/color
+- package: github.com/tealeg/xlsx
+- package: github.com/valyala/fasthttp
+- package: gopkg.in/alecthomas/kingpin.v2
+- package: gopkg.in/go-playground/pool.v3
